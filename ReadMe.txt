@@ -1,0 +1,1 @@
+Make sure memory integrity and driver block list is disabled 
